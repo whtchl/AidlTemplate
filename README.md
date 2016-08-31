@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/whtchl/AidlTemplate/master/pic/device-2016-08-31-212205.png"/>
