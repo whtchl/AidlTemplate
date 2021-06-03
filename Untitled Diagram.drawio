@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T09:09:39.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="WAg5ZqI664oIZzw40hT5" version="14.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-03T11:30:07.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="CckIZ7mMozyil7G2c3-S" version="14.7.4" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1859" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -129,13 +129,61 @@
         <mxCell id="MfZMguHcB6c8B6WpQMl0-0" />
         <mxCell id="MfZMguHcB6c8B6WpQMl0-1" parent="MfZMguHcB6c8B6WpQMl0-0" />
         <mxCell id="MfZMguHcB6c8B6WpQMl0-2" value="Linux GateWay&lt;br&gt;(&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/common/src/module/vehicle/rsiapi/RSITokenClient.cpp&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;RSITokenClient.cpp&lt;/a&gt;)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-1">
-          <mxGeometry x="110" y="40" width="200" height="320" as="geometry" />
+          <mxGeometry x="110" y="40" width="200" height="740" as="geometry" />
         </mxCell>
         <mxCell id="MfZMguHcB6c8B6WpQMl0-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-2">
           <mxGeometry x="95" y="240" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry x="100" y="420" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-30" value="&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span id=&quot;scope_id_7cc3345&quot; class=&quot;scope-head&quot; style=&quot;display: inline&quot;&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/s?refs=getServiceListStatus&amp;amp;project=CNS3.0_SOP2_MA_Linux&quot; class=&quot;xf intelliWindow-symbol&quot; style=&quot;color: rgb(0 , 0 , 255) ; font-weight: bold&quot;&gt;getServiceListStatus&lt;/a&gt;&lt;/span&gt;&lt;/pre&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="MfZMguHcB6c8B6WpQMl0-29" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry x="100" y="530" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-32" value="&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span id=&quot;scope_id_cf46cf3f&quot; class=&quot;scope-head&quot; style=&quot;display: inline&quot;&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/s?refs=handleEvent&amp;amp;project=CNS3.0_SOP2_MA_Linux&quot; class=&quot;xf intelliWindow-symbol&quot; style=&quot;color: rgb(0 , 0 , 255) ; font-weight: bold&quot;&gt;handleEvent&lt;/a&gt;()&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span class=&quot;scope-head&quot; style=&quot;display: inline&quot;&gt;&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span id=&quot;scope_id_cf46cf3f_fold&quot; class=&quot;scope-body&quot; style=&quot;display: inline&quot;&gt;&lt;span class=&quot;s&quot; style=&quot;color: green&quot;&gt;RSITokenClient ServiceListSubscriptionId_syncStatus called&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;font color=&quot;#008000&quot;&gt;To get Service List and APN&lt;/font&gt;&lt;/pre&gt;&lt;/span&gt;&lt;/pre&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="MfZMguHcB6c8B6WpQMl0-31" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="510" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MfZMguHcB6c8B6WpQMl0-2" source="MfZMguHcB6c8B6WpQMl0-33" target="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry x="100" y="570" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-34" value="&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span id=&quot;scope_id_b9dace3c_fold&quot; class=&quot;scope-body&quot; style=&quot;display: inline&quot;&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/s?defs=broadcastServiceList&amp;amp;project=CNS3.0_SOP2_MA_Linux&quot; class=&quot;intelliWindow-symbol&quot; style=&quot;color: rgb(32 , 48 , 162)&quot;&gt;broadcastServiceList&lt;/a&gt;&lt;/span&gt;&lt;/pre&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.9;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="MfZMguHcB6c8B6WpQMl0-33" parent="MfZMguHcB6c8B6WpQMl0-2" source="MfZMguHcB6c8B6WpQMl0-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="560" />
+              <mxPoint x="150" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry x="95" y="630" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MfZMguHcB6c8B6WpQMl0-37" value="&lt;pre style=&quot;border: 0px ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span id=&quot;scope_id_a25a3d2_fold&quot; class=&quot;scope-body&quot; style=&quot;display: inline&quot;&gt;&lt;a class=&quot;d intelliWindow-symbol&quot; href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/common/src/module/vehicle/rsiapi/RSITokenClient.cpp#subscribe&quot; style=&quot;color: rgb(153 , 0 , 153) ; font-weight: bold&quot;&gt;subscribe&lt;/a&gt;:&lt;/span&gt; &lt;a href=&quot;http://cnninvmcdrv01/source/s?defs=RSI_SERVICE_MANAGEMENT_SERVICE&amp;amp;project=CNS3.0_SOP2_MA_Linux&quot; class=&quot;intelliWindow-symbol&quot; style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; color: rgb(32 , 48 , 162)&quot;&gt;RSI_SERVICE_MANAGEMENT_SERVICE&lt;/a&gt;&lt;/pre&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="MfZMguHcB6c8B6WpQMl0-36" parent="MfZMguHcB6c8B6WpQMl0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MfZMguHcB6c8B6WpQMl0-3" value="Main.cpp&lt;br&gt;(&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/&quot; style=&quot;color: rgb(32 , 32 , 98) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;cns-gateway&lt;/a&gt;&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;1&lt;/a&gt;&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;workspace&lt;/a&gt;&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;server&lt;/a&gt;&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/app/&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;app&lt;/a&gt;&lt;span style=&quot;font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;/&lt;/span&gt;&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/app/main.cpp&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;main.cpp&lt;/a&gt;&lt;br&gt;)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-1">
-          <mxGeometry x="640" y="40" width="340" height="300" as="geometry" />
+          <mxGeometry x="640" y="40" width="340" height="840" as="geometry" />
         </mxCell>
         <mxCell id="MfZMguHcB6c8B6WpQMl0-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-3">
           <mxGeometry x="160" y="100" width="10" height="50" as="geometry" />
@@ -149,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MfZMguHcB6c8B6WpQMl0-10" value="&lt;a href=&quot;http://cnninvmcdrv01/source/xref/CNS3.0_SOP2_MA_Linux/dev/src/gateway/cns-gateway/1/workspace/server/common/src/module/vehicle/VehicleFdbusServer.cpp&quot; style=&quot;color: rgb(32 , 48 , 162) ; font-family: monospace ; font-size: medium ; background-color: rgb(255 , 255 , 255)&quot;&gt;VehicleFdbusServer.cpp&lt;/a&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-1">
-          <mxGeometry x="380" y="40" width="160" height="300" as="geometry" />
+          <mxGeometry x="380" y="40" width="160" height="760" as="geometry" />
         </mxCell>
         <mxCell id="MfZMguHcB6c8B6WpQMl0-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="MfZMguHcB6c8B6WpQMl0-10">
           <mxGeometry x="80" y="140" width="10" height="30" as="geometry" />
